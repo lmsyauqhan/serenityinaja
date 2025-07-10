@@ -1,0 +1,1 @@
+<?php include 'includes/functions.php'; include 'includes/store_items.php'; ?>
